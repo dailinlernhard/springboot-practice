@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>../exception-test</module>
+        <module>../springboot-jwt</module>
     </modules>
 
 
