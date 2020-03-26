@@ -1,0 +1,9 @@
+#服务配置
+server:
+  port: 9002
+
+# jwt配置
+jwt:
+  config:
+    key: tuna_dai
+    ttl: 60000
